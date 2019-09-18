@@ -14,7 +14,7 @@ Actions in application:
 * React Bootstrap
 
 __Screenshot__
-![alt text](https://raw.githubusercontent.com/AndreiGolopenta/React-CRUD-table/master/screenshot.png)
+![alt text](https://raw.githubusercontent.com/AndreiGolopenta/React-CRUD/master/screenshot.png)
 
 
 ## Project Dependencies
