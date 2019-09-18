@@ -1,0 +1,37 @@
+.myApp {
+  margin: 40px;
+}
+
+.edit-button, .delete-button {
+  margin-right: 5px;
+}
+
+table th, td {
+  text-align: center;
+}
+
+.top-card {
+  display: flex;
+  justify-content: space-between;
+}
+
+input {
+  text-align: center;
+}
+
+.sort-insert-search {
+  width: 376px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.sort-insert-search input {
+  width: 150px;
+  text-align: left;
+}
+
+.sort-insert-search .dropdown {
+  margin-left: 6px;
+}
+
+
